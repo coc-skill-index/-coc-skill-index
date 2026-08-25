@@ -1,1 +1,1 @@
-# coc-skill-index
+# -coc-skill-index
